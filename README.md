@@ -1,2 +1,2 @@
 # kattis
-code from various Kattis puzzles
+This is code for various Open.Kattis.com puzzles in c++. 
